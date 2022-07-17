@@ -1,0 +1,3 @@
+Sitemap: https://www.wickedanime.net/sitemap.xml
+
+User-agent: Googlebot
